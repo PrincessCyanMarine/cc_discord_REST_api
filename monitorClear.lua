@@ -1,0 +1,1 @@
+peripheral.find("monitor").clear()
